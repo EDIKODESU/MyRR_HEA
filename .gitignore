@@ -1,0 +1,8 @@
+# ignore newfile.txt
+newfile.txt
+
+# ignore files-copies
+#.~*
+
+# ignore files in folder build
+build/
